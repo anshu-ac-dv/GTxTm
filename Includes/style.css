@@ -1,0 +1,15 @@
+header{
+    background-color: aqua;
+    padding: 8px;
+    
+}
+tr{
+    color: red;
+    
+}
+td{
+    padding: 10px;
+    font-size: large;
+    color: black;
+    align-content: end;
+}
